@@ -1,2 +1,2 @@
 # Blog-images-hosting
-个人博客的图床
+Image hosting for my blog
